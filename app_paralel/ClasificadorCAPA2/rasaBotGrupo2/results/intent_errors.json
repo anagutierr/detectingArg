@@ -1,0 +1,58 @@
+[
+  {
+    "text": "Generally, if a student consistently attends classes, then their academic performance improves. However, in this particular case, Sarah attends all her classes but her grades have not shown any improvement. Therefore, we must recognize an exception to the rule and consider other factors that may affect academic performance.",
+    "intent": "precedent",
+    "intent_prediction": {
+      "name": "example",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "Typically, employees who work overtime receive higher pay. Yet, in this instance, John has been working extra hours without any increase in his salary. Hence, we need to acknowledge an exception to the rule and reassess the fairness of compensation policies.",
+    "intent": "precedent",
+    "intent_prediction": {
+      "name": "example",
+      "confidence": 0.9999990463256836
+    }
+  },
+  {
+    "text": "Typically, students who study diligently perform well in exams. However, in this particular case, despite studying for hours, Tom struggles to achieve satisfactory grades. Thus, we need to acknowledge an exception to the rule and explore additional support mechanisms for Tom.",
+    "intent": "precedent",
+    "intent_prediction": {
+      "name": "example",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "Senior citizens who have retired have limited income and are vulnerable to poverty. For all individuals who have limited income and are vulnerable to poverty, if they have contributed to society during their working years, then they can be classified as deserving of a basic pension as a means of social security. Therefore, senior citizens who have retired and have limited income and are vulnerable to poverty deserve to receive a basic pension as a means of social security.",
+    "intent": "verbal_classification",
+    "intent_prediction": {
+      "name": "example",
+      "confidence": 0.9999926090240479
+    }
+  },
+  {
+    "text": "Overusing antibiotics for minor infections is similar to relying on painkillers for every discomfort. Antibiotics are effective for treating bacterial infections when prescribed correctly. Therefore, relying on painkillers for minor pains can lead to dependency.",
+    "intent": "analogy",
+    "intent_prediction": {
+      "name": "estalished_rule",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Generally, globalization is similar to a game of musical chairs where there are limited resources and one winner. In a game of musical chairs, there is only one winner and the rest are left with nothing. In globalization, there are winners and losers and the winners often benefit at the expense of the losers.",
+    "intent": "analogy",
+    "intent_prediction": {
+      "name": "example",
+      "confidence": 0.9999996423721313
+    }
+  },
+  {
+    "text": "Generally, removing an unwanted object from one's own property is similar to removing an unwanted fetus from one's own body. It is generally accepted that an individual has the right to decide what they do with their own property. Therefore, an individual should have the right to decide what they do with their own body, including the option to abort an unwanted fetus.",
+    "intent": "analogy",
+    "intent_prediction": {
+      "name": "example",
+      "confidence": 0.9998331069946289
+    }
+  }
+]

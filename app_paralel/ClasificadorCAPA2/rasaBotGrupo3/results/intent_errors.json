@@ -1,0 +1,42 @@
+[
+  {
+    "text": "If industries continue to pollute the environment and exploit natural resources, ecosystems will suffer irreversible damage, leading to loss of biodiversity, habitat destruction, and climate change. As an environmental steward, I advocate for sustainable practices, conservation efforts, and renewable energy alternatives to mitigate environmental degradation and protect our planet for future generations. Therefore, it is essential for industries to adopt environmentally responsible practices to preserve the health and integrity of our ecosystems.",
+    "intent": "threat",
+    "intent_prediction": {
+      "name": "waste",
+      "confidence": 0.9987831711769104
+    }
+  },
+  {
+    "text": "At present, there is a decision to be made regarding the continuation or cessation of a military campaign. With lives lost and resources expended in the pursuit of strategic objectives, it is imperative to see the mission through to its conclusion to justify the sacrifices made and uphold national interests.",
+    "intent": "sunk_costs",
+    "intent_prediction": {
+      "name": "sign",
+      "confidence": 0.9999990463256836
+    }
+  },
+  {
+    "text": "Generally, if a contagious disease spreads rapidly and poses a public health threat, then implementing measures like mandatory vaccination can help control the spread and reduce the number of infections and deaths. In this case, the COVID-19 pandemic is spreading rapidly and posing a significant public health threat. Therefore, implementing mandatory vaccination can help control the spread of COVID-19, reduce the number of infections and deaths, and support public health efforts.",
+    "intent": "cause_to_effect",
+    "intent_prediction": {
+      "name": "sign",
+      "confidence": 0.9654635787010193
+    }
+  },
+  {
+    "text": "Climate change is a global challenge that requires urgent action to mitigate its impact and ensure sustainable development. The United Nations has identified the need for sustainable development goals as a universal call to action to end poverty, protect the planet, and ensure that all people enjoy peace and prosperity. Therefore, the implementation of Sustainable Development Goals is necessary to address the global challenge of climate change and achieve sustainable development.",
+    "intent": "sign",
+    "intent_prediction": {
+      "name": "threat",
+      "confidence": 0.9998549222946167
+    }
+  },
+  {
+    "text": "Offshore tax havens offer a lower tax rate compared to other countries. Countries that offer a lower tax rate are generally preferred by multinational corporations looking to reduce their tax burden. Therefore, multinational corporations are likely to use offshore tax havens to lower their tax burden.",
+    "intent": "sign",
+    "intent_prediction": {
+      "name": "cause_to_effect",
+      "confidence": 0.8612714409828186
+    }
+  }
+]

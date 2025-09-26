@@ -1,0 +1,44 @@
+version: "3.1"
+
+intents:
+  - position_to_know
+  - witness_testimony
+  - expert_opinion
+  - ignorance
+  - inconsistent_commitment
+  - direct_ad_hominem
+  - popular_opinion
+  - popular_practice
+ 
+
+responses:
+
+  utter_position_to_know:
+  - text: "position_to_know"
+
+  utter_witness_testimony:
+  - text: "witness_testimony"
+
+  utter_expert_opinion:
+  - text: "expert_opinion"
+
+  utter_ignorance:
+  - text: "ignorance"
+
+  utter_inconsistent_commitment:
+  - text: "inconsistent_commitment"
+
+  utter_direct_ad_hominem:
+  - text: "direct_ad_hominem"
+
+  utter_popular_opinion:
+  - text: "popular_opinion"
+
+  utter_popular_practice:
+  - text: "popular_practice"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

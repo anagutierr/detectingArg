@@ -1,0 +1,32 @@
+version: "3.1"
+
+intents:
+  - example
+  - analogy
+  - precedent
+  - established rule
+  - verbal classification
+ 
+
+responses:
+
+  utter_example:
+  - text: "example"
+
+  utter_analogy:
+  - text: "analogy"
+
+  utter_precedent:
+  - text: "precedent"
+
+  utter_established_rule:
+  - text: "established rule"
+
+  utter_verbal_classification:
+  - text: "verbal classification"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

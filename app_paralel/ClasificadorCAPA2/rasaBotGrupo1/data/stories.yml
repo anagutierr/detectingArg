@@ -1,0 +1,43 @@
+version: "3.1"
+
+stories:
+
+- story: position_to_know path
+  steps:
+  - intent: position_to_know
+  - action: utter_position_to_know
+
+- story: witness_testimony path
+  steps:
+  - intent: witness_testimony
+  - action: utter_witness_testimony
+
+- story: expert_opinion path
+  steps:
+  - intent: expert_opinion
+  - action: utter_expert_opinion
+
+- story: ignorance path
+  steps:
+  - intent: ignorance
+  - action: utter_ignorance
+
+- story: inconsistent_commitment path
+  steps:
+  - intent: inconsistent_commitment
+  - action: utter_inconsistent_commitment
+
+- story: direct_ad_hominem path
+  steps:
+  - intent: direct_ad_hominem
+  - action: utter_direct_ad_hominem
+
+- story: popular_opinion path
+  steps:
+  - intent: popular_opinion
+  - action: utter_popular_opinion
+
+- story: popular_practice path
+  steps:
+  - intent: popular_practice
+  - action: utter_popular_practice

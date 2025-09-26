@@ -1,0 +1,85 @@
+{
+  "witness_testimony": {
+    "precision": 0.9090909090909091,
+    "recall": 1.0,
+    "f1-score": 0.9523809523809523,
+    "support": 30,
+    "confused_with": {}
+  },
+  "popular_practice": {
+    "precision": 0.9655172413793104,
+    "recall": 1.0,
+    "f1-score": 0.9824561403508771,
+    "support": 28,
+    "confused_with": {}
+  },
+  "ignorance": {
+    "precision": 0.9655172413793104,
+    "recall": 1.0,
+    "f1-score": 0.9824561403508771,
+    "support": 28,
+    "confused_with": {}
+  },
+  "position_to_know": {
+    "precision": 1.0,
+    "recall": 0.8,
+    "f1-score": 0.888888888888889,
+    "support": 25,
+    "confused_with": {
+      "expert_opinion": 4,
+      "popular_practice": 1
+    }
+  },
+  "inconsistent_commitment": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 27,
+    "confused_with": {}
+  },
+  "expert_opinion": {
+    "precision": 0.8260869565217391,
+    "recall": 0.8260869565217391,
+    "f1-score": 0.8260869565217391,
+    "support": 23,
+    "confused_with": {
+      "witness_testimony": 3,
+      "direct_ad_hominem": 1
+    }
+  },
+  "popular_opinion": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 27,
+    "confused_with": {}
+  },
+  "direct_ad_hominem": {
+    "precision": 0.9473684210526315,
+    "recall": 0.9473684210526315,
+    "f1-score": 0.9473684210526315,
+    "support": 19,
+    "confused_with": {
+      "ignorance": 1
+    }
+  },
+  "accuracy": 0.9516908212560387,
+  "macro avg": {
+    "precision": 0.9516975961779877,
+    "recall": 0.9466819221967964,
+    "f1-score": 0.9474546874432457,
+    "support": 207
+  },
+  "weighted avg": {
+    "precision": 0.9533415110626504,
+    "recall": 0.9516908212560387,
+    "f1-score": 0.9507787181318837,
+    "support": 207
+  },
+  "micro avg": {
+    "precision": 0.9516908212560387,
+    "recall": 0.9516908212560387,
+    "f1-score": 0.9516908212560387,
+    "support": 207
+  }
+}

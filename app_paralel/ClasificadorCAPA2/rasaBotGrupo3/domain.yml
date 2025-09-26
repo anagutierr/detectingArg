@@ -1,0 +1,32 @@
+version: "3.1"
+
+intents:
+  - waste
+  - sunk costs
+  - threat
+  - sign
+  - cause to effect
+ 
+
+responses:
+
+  utter_waste:
+  - text: "waste"
+
+  utter_sunk_costs:
+  - text: "sunk costs"
+
+  utter_threat:
+  - text: "threat"
+
+  utter_sign:
+  - text: "sign"
+
+  utter_cause_to _effect:
+  - text: "cause to effect"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

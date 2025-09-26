@@ -1,0 +1,28 @@
+version: "3.1"
+
+stories:
+
+- story: example path
+  steps:
+  - intent: example
+  - action: utter_example
+
+- story: analogy path
+  steps:
+  - intent: analogy
+  - action: utter_analogy
+
+- story: precedent path
+  steps:
+  - intent: precedent
+  - action: utter_precedent
+
+- story: estalished_rule path
+  steps:
+  - intent: estalished_rule
+  - action: utter_estalished_rule
+
+- story: verbal_classification path
+  steps:
+  - intent: verbal_classification
+  - action: utter_verbal_classification

@@ -1,0 +1,28 @@
+version: "3.1"
+
+stories:
+
+- story: waste path
+  steps:
+  - intent: waste
+  - action: utter_waste
+
+- story: sunk_costs path
+  steps:
+  - intent: sunk_costs
+  - action: utter_sunk_costs
+
+- story: threat path
+  steps:
+  - intent: threat
+  - action: utter_threat
+
+- story: sign path
+  steps:
+  - intent: sign
+  - action: utter_sign
+
+- story: cause_to_effect path
+  steps:
+  - intent: cause_to_effect
+  - action: utter_cause_to_effect

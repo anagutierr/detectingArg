@@ -1,0 +1,29 @@
+version: "3.1"
+
+intents:
+  - grupo1 #Role/position to know y from an expert opinion
+  - grupo2 #Sign y Cause to Effect 
+  - grupo3 #Popular practice y popular opinion
+  - grupo0
+  #- grupo4 #Analogy
+  #- grupo5 #Not a scheme
+
+responses:
+
+  utter_grupo0:
+  - text: "Grupo0"
+
+  utter_grupo1:
+  - text: "Grupo1"
+
+  utter_grupo2:
+  - text: "Grupo2"
+
+  utter_grupo3:
+  - text: "Grupo3"
+
+
+
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true

@@ -1,0 +1,82 @@
+[
+  {
+    "text": "It's widely known that the lobbyist has a history of deceitful tactics. Therefore, their opposition to the proposed regulations on the pharmaceutical industry should be ignored.",
+    "intent": "direct_ad_hominem",
+    "intent_prediction": {
+      "name": "ignorance",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Educational psychologists are in a position to understand the factors influencing student learning outcomes. They assert that a supportive learning environment enhances students' academic performance. Thus, implementing student-centered teaching methods fosters a conducive learning atmosphere.",
+    "intent": "position_to_know",
+    "intent_prediction": {
+      "name": "expert_opinion",
+      "confidence": 0.5201717019081116
+    }
+  },
+  {
+    "text": "Financial analysts have expertise in assessing market trends and economic indicators. They assert that diversifying investment portfolios mitigates financial risks. Consequently, spreading investments across different asset classes safeguards against market volatility.",
+    "intent": "position_to_know",
+    "intent_prediction": {
+      "name": "expert_opinion",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Cybersecurity experts specialize in identifying and mitigating online security threats. They assert that regularly updating antivirus software reduces the risk of malware infections. Consequently, maintaining up-to-date security protocols safeguards sensitive data from cyberattacks.",
+    "intent": "position_to_know",
+    "intent_prediction": {
+      "name": "expert_opinion",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Social psychologists have knowledge of human behavior in social contexts. They assert that practicing empathy and active listening strengthens interpersonal relationships. Thus, cultivating empathetic communication fosters deeper connections and mutual understanding.",
+    "intent": "position_to_know",
+    "intent_prediction": {
+      "name": "expert_opinion",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Medical professionals are in position to know about matters concerning the health and well-being of patients. Medical professionals assert that euthanasia is contrary to the Hippocratic Oath which prohibits them from intentionally causing harm or death to patients. Therefore, euthanasia is contrary to the principles of medical ethics and is therefore not an acceptable practice.",
+    "intent": "position_to_know",
+    "intent_prediction": {
+      "name": "popular_practice",
+      "confidence": 0.6744409203529358
+    }
+  },
+  {
+    "text": "Professor Angela Davis, a prominent scholar in sociology, argues that systemic racism persists in various aspects of society. Therefore, it is apparent that systemic racism continues to affect marginalized communities.",
+    "intent": "expert_opinion",
+    "intent_prediction": {
+      "name": "direct_ad_hominem",
+      "confidence": 0.9062123894691467
+    }
+  },
+  {
+    "text": "Legal scholar X, an expert in constitutional law, argues that freedom of speech should be limited in cases where it leads to hate speech and incitement to violence. Limiting freedom of speech in cases of hate speech and incitement to violence is necessary to protect individuals from harm and maintain a civil society.",
+    "intent": "expert_opinion",
+    "intent_prediction": {
+      "name": "witness_testimony",
+      "confidence": 0.9964146614074707
+    }
+  },
+  {
+    "text": "Dr. Jason Fung, an expert in nutrition and obesity, suggests that intermittent fasting can be a highly effective tool for weight loss and improved metabolic health. Thus, intermittent fasting is a true and effective method for weight loss and improved metabolic health.",
+    "intent": "expert_opinion",
+    "intent_prediction": {
+      "name": "witness_testimony",
+      "confidence": 0.9671780467033386
+    }
+  },
+  {
+    "text": "Dr. Ian Wilmut, an expert in reproductive biology, presents a proposition that cloning can be achieved through somatic cell nuclear transfer (SCNT). He asserts that SCNT has been successfully used to clone animals such as Dolly the sheep and has the potential to be used for cloning humans as well. Therefore, SCNT has the potential to achieve animal/human cloning, and Dr. Ian Wilmut's expertise supports this claim.",
+    "intent": "expert_opinion",
+    "intent_prediction": {
+      "name": "witness_testimony",
+      "confidence": 0.45088571310043335
+    }
+  }
+]

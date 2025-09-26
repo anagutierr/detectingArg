@@ -1,0 +1,522 @@
+[
+  {
+    "text": "If governments fail to invest in education, future generations will face limited opportunities for personal and professional growth, perpetuating cycles of poverty and inequality. As an educator, I am dedicated to ensuring equitable access to quality education for all individuals, regardless of socio-economic background. Therefore, policymakers must prioritize funding for education initiatives to empower individuals and promote societal progress.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9999998807907104
+    }
+  },
+  {
+    "text": "If corporations prioritize profit over ethical considerations, they risk exploiting workers, damaging the environment, and perpetuating social injustices. As a responsible consumer, I pledge to support ethical businesses that prioritize sustainability, fair labor practices, and social responsibility. Therefore, it is essential for companies to align their practices with ethical standards to foster positive societal impact and long-term sustainability.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.5988110899925232
+    }
+  },
+  {
+    "text": "If individuals continue to engage in reckless driving behaviors, such as speeding, distracted driving, and driving under the influence, they endanger not only their own lives but also the lives of others on the road. As a concerned citizen, I advocate for stricter enforcement of traffic laws, public awareness campaigns on safe driving practices, and investment in infrastructure improvements to enhance road safety. Therefore, it is crucial for everyone to prioritize responsible driving habits to prevent accidents and save lives.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9911036491394043
+    }
+  },
+  {
+    "text": "If society neglects mental health care, individuals suffering from mental illnesses will face stigma, lack of access to treatment, and diminished quality of life. As a mental health advocate, I am committed to destigmatizing mental illness, promoting access to affordable and culturally competent mental health services, and advocating for policies that prioritize mental well-being. Therefore, it is imperative for communities to prioritize mental health care as an essential component of overall health and well-being.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9998051524162292
+    }
+  },
+  {
+    "text": "If individuals neglect physical exercise and healthy eating habits, they will face increased risks of chronic diseases such as obesity, diabetes, and heart disease. As a health enthusiast, I promote regular exercise, balanced nutrition, and lifestyle choices that prioritize overall well-being. Therefore, it is essential for everyone to prioritize healthy habits to prevent chronic diseases and maintain optimal health.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.578464925289154
+    }
+  },
+  {
+    "text": "If governments continue to prioritize military spending over investments in social services, education, and healthcare, society will face growing inequality, poverty, and social unrest. As a peace advocate, I call for reallocating resources towards social programs, diplomacy, and conflict resolution efforts to address root causes of instability and promote global cooperation. Therefore, it is imperative for policymakers to prioritize peace-building initiatives and sustainable development goals to foster a more peaceful and prosperous world for all.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9678254723548889
+    }
+  },
+  {
+    "text": "If individuals neglect their civic duties, democracy will erode, and authoritarianism may rise, threatening fundamental rights and freedoms. As a responsible citizen, I uphold democratic principles, civic engagement, and participation in political processes to safeguard democracy and hold elected officials accountable. Therefore, it is crucial for everyone to actively participate in democratic governance and defend democratic institutions to ensure a free and equitable society.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.988620400428772
+    }
+  },
+  {
+    "text": "If you allow children unrestricted access to the Internet, they may be exposed to inappropriate content such as violence, pornography, hate speech, and other harmful material. As a parent or guardian, I am responsible for protecting children from harm and ensuring their well-being. I hereby assert that I will take measures such as monitoring Internet use, setting up parental controls, and limiting access to certain websites to prevent children from being exposed to harmful content if they have unrestricted access to the Internet. Therefore, it is not advisable to allow children unrestricted access to the Internet as it may lead to exposure to inappropriate content and harm their development.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.9999980926513672
+    }
+  },
+  {
+    "text": "If you engage in surrogacy to have a child, it can lead to children being treated as commodities to be bought and sold, rather than as human beings deserving of dignity and respect. I am in a position to ensure that children born through surrogacy will be exploited and treated as mere objects to fulfill the desires of adults. I hereby assert that in fact I will do everything in my power to prevent surrogacy from being legalized to protect vulnerable children from being treated as commodities and exploited for financial gain. Therefore, you had better not engage in surrogacy, as it can result in severe negative consequences for children and can lead to their exploitation.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.970309853553772
+    }
+  },
+  {
+    "text": "If students are allowed to wear whatever they want to school instead of following a uniform dress code, some cited bad consequences, such as increased social class divisions and increased instances of bullying based on clothing, will follow. As an educator, I am in a position to see the effects of social class divisions and bullying within the school environment. I hereby assert that in fact I will see to it that the negative consequences of increased social class divisions and bullying based on clothing occur if a school uniform policy is not enforced. Therefore, it is in the best interest of the school and its students to enforce a school uniform policy.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9999680519104004
+    }
+  },
+  {
+    "text": "If you legalize cannabis, it will lead to an increase in usage and addiction rates among young people. As a drug dealer, I have the means and distribution channels to increase the availability of cannabis among young people. I hereby assert that I will use my resources to increase the availability of cannabis to young people if it is legalized. Therefore, you had better not legalize cannabis.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9182797074317932
+    }
+  },
+  {
+    "text": "If mandatory vaccination is not implemented in a pandemic, there will be a significant increase in the spread of the disease and an overwhelming healthcare system. I have the authority to enforce mandatory vaccinations. I hereby assert that if mandatory vaccinations are not implemented, healthcare systems will be overwhelmed and many lives will be lost due to the spread of the disease. Therefore, it is necessary to implement mandatory vaccination in a pandemic to avoid overwhelming healthcare systems and to prevent needless loss of life.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9862871766090393
+    }
+  },
+  {
+    "text": "If you allow unrestricted access to the internet, people may consume harmful and extremist content, which could lead to violent behavior and radicalization. As a government, I have the power to regulate and censor internet content. I hereby assert that in fact I will censor the internet if necessary to prevent harmful and extremist content from spreading and leading to violent behavior and radicalization. Therefore, it is in the best interest of society that I censor the internet to prevent potential harm and you should not oppose internet censorship.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.999995231628418
+    }
+  },
+  {
+    "text": "If a government halts funding for healthcare programs now, all the progress made in improving public health will be lost. If these advancements are not sustained, it would undermine the well-being of the population and negate previous efforts to enhance healthcare access. Therefore, the government ought to maintain its support for healthcare initiatives to safeguard the health of its citizens.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.65574711561203
+    }
+  },
+  {
+    "text": "If a chef abandons their culinary ambitions at this stage, all the hours spent honing their skills will be for naught. If these skills are allowed to deteriorate, it would be a waste of talent and passion. Therefore, the chef ought to persist in pursuing their culinary career to fully realize their potential.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9999922513961792
+    }
+  },
+  {
+    "text": "If a writer gives up on completing their novel at this juncture, all the creativity poured into crafting the story will be lost. If this creative endeavor is abandoned, it would be a disheartening waste of artistic expression. Therefore, the writer ought to continue writing to bring their vision to fruition.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9697120785713196
+    }
+  },
+  {
+    "text": "If we do not provide Universal basic pension, many elderly citizens will struggle to make ends meet and may fall into poverty. If we allow elderly citizens to fall into poverty despite their years of contribution, that would be a waste of their lifetime efforts to support themselves and their families. Therefore, we ought to provide Universal basic pension to ensure that elderly citizens can live with dignity and avoid wasting their lifetime efforts.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9992356300354004
+    }
+  },
+  {
+    "text": "If a person is executed for a crime, and it is later discovered that they were innocent, their life will have been needlessly taken and their potential for rehabilitation and contributions to society will be lost. If a person's life is needlessly taken and their potential is lost, that would be a bad thing. Therefore, capital punishment ought to be abolished to prevent the needless taking of innocent lives and the loss of potential for rehabilitation and contributions to society.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.846981406211853
+    }
+  },
+  {
+    "text": "If the government stops covering up chemtrail spraying, all previous efforts to keep it secret will be wasted. If all the government's previous attempts at covering up chemtrail spraying are wasted, it would be a good thing for transparency and public knowledge. Therefore, the government ought to stop covering up chemtrail spraying and be transparent about the issue.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.9684726595878601
+    }
+  },
+  {
+    "text": "Presently, there is a choice between enforcing stricter environmental regulations or relaxing existing standards. Considering the investments made in research and development of eco-friendly technologies, it is necessary to uphold stringent regulations to protect the sunk costs and promote sustainable practices.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.9766927361488342
+    }
+  },
+  {
+    "text": "Currently, there is a decision to be made regarding the allocation of funds for space exploration missions. With substantial investments in spacecraft development and mission planning, it is prudent to continue funding these endeavors to honor past commitments and advance scientific knowledge beyond Earth's confines.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "There is a choice at present between continuing to operate existing nuclear power plants or decommissioning them. At past time, large sunk costs were incurred for building and maintaining the existing nuclear power plants. Therefore, we should continue to operate the existing nuclear power plants as decommissioning them would waste the significant financial resources invested in them.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.7082938551902771
+    }
+  },
+  {
+    "text": "There is a choice at the beginning of the school year between providing Internet access to children or not. At the last school board meeting, we voted to allocate funds for providing Internet access to children, and the funds have already been spent on equipment and installation. Therefore, we should provide Internet access for children, even if there are ongoing costs, because the sunk costs of the initial investment have already been incurred.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.9999102354049683
+    }
+  },
+  {
+    "text": "There is a choice at present between accepting the existence of UFOs and rejecting it as a hoax or illusion. At some point in the past, significant investment has been made in research, investigations, and collection of data on UFO sightings and encounters. This includes not only time and effort but also financial resources that cannot be recovered if UFOs are ultimately dismissed as non-existent. Therefore, given the sunk costs invested in exploring the possibility of UFO existence, we should continue to accept that they are a genuine phenomenon and invest further resources in studying them.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.9848034381866455
+    }
+  },
+  {
+    "text": "There is a choice at the beginning of a sexual relationship between using birth control or not using birth control. At the beginning of the sexual relationship, I have already invested time and resources into the relationship and have made a commitment to protect myself and my partner from unwanted pregnancy by using birth control. Therefore, I should continue to use birth control throughout the sexual relationship to honor my previous investment and commitment.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.9999715089797974
+    }
+  },
+  {
+    "text": "Access to education is crucial for socio-economic development and poverty alleviation in communities worldwide. Studies have consistently shown that increased access to education correlates with higher levels of income, improved health outcomes, and reduced inequality within societies. Thus, investing in education initiatives is vital for fostering sustainable development and enhancing overall well-being.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9981400966644287
+    }
+  },
+  {
+    "text": "The implementation of strict gun control measures has been proven to reduce the incidence of firearm-related violence and fatalities in various countries. Research indicates that regions with stringent gun laws experience lower rates of gun-related crimes and fatalities compared to those with lax regulations. Therefore, enacting comprehensive gun control policies is essential for curbing gun violence and ensuring public safety.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.7769770622253418
+    }
+  },
+  {
+    "text": "Regular physical exercise is associated with numerous health benefits, including improved cardiovascular health, weight management, and enhanced mental well-being. It is widely recognized that engaging in regular physical activity contributes to a healthier lifestyle and reduces the risk of developing chronic diseases such as obesity, diabetes, and heart disease. Thus, promoting physical activity is essential for promoting overall health and well-being.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Preservation of natural habitats and biodiversity is essential for maintaining ecosystem balance and supporting various forms of life on Earth. Scientific evidence suggests that ecosystems with high levels of biodiversity are more resilient to environmental disturbances and better able to provide essential ecosystem services such as clean air, water, and pollination. Therefore, conserving biodiversity and protecting natural habitats is critical for sustaining life on our planet.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9968749284744263
+    }
+  },
+  {
+    "text": "Adoption of sustainable agricultural practices, such as organic farming and agroforestry, can help mitigate the negative environmental impacts of conventional farming methods. Studies have shown that sustainable agriculture promotes soil health, reduces water pollution, and minimizes the use of synthetic chemicals and fertilizers. Thus, transitioning to sustainable agricultural practices is essential for ensuring food security and environmental sustainability.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9502972364425659
+    }
+  },
+  {
+    "text": "Investment in renewable energy infrastructure, such as solar and wind farms, is essential for transitioning towards a low-carbon economy and reducing dependence on fossil fuels. Research indicates that renewable energy sources are abundant, cost-effective, and environmentally friendly alternatives to traditional energy sources like coal and oil. Therefore, accelerating the deployment of renewable energy infrastructure is crucial for addressing climate change and promoting sustainable development.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.999980092048645
+    }
+  },
+  {
+    "text": "Implementation of policies aimed at reducing plastic pollution, such as bans on single-use plastics and promotion of recycling programs, is vital for protecting marine ecosystems and wildlife. Studies have shown that plastic pollution poses a significant threat to marine life, with millions of marine animals dying each year due to ingestion or entanglement in plastic debris. Therefore, taking action to reduce plastic pollution is essential for preserving the health and integrity of our oceans and marine ecosystems.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9999070167541504
+    }
+  },
+  {
+    "text": "Investment in public transportation systems, such as buses and trains, can help alleviate traffic congestion and reduce carbon emissions from individual vehicles. It is widely recognized that mass transit systems are more energy-efficient and environmentally friendly modes of transportation compared to private automobiles. Thus, expanding and improving public transportation infrastructure is essential for promoting sustainable urban development and combating climate change.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.8754444122314453
+    }
+  },
+  {
+    "text": "Promotion of sustainable tourism practices, such as eco-tourism and community-based tourism initiatives, is crucial for preserving natural landscapes and cultural heritage sites. Research indicates that unsustainable tourism activities, such as overdevelopment and habitat destruction, can have detrimental effects on local ecosystems and indigenous cultures. Therefore, embracing sustainable tourism principles is essential for ensuring the long-term viability of tourist destinations and protecting their inherent values.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.7125217318534851
+    }
+  },
+  {
+    "text": "Many people who are able-bodied and working would derive no significant benefit from a universal basic pension. If a proposed policy does not benefit a significant portion of the population, it is not an effective or efficient policy. A universal basic pension is not an effective or efficient policy for many able-bodied and working people.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Wearing school uniforms limits students' individuality and self-expression. When something restricts individuality and self-expression, it is generally not beneficial for personal growth and development. Wearing school uniforms is not beneficial for students' personal growth and development.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9905229210853577
+    }
+  },
+  {
+    "text": "The Sustainable Development Goals lack accountability measures. Achieving accountability is generally indicated as necessary for successful implementation of goals. The Sustainable Development Goals may not be successfully implemented without accountability measures.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9976058006286621
+    }
+  },
+  {
+    "text": "Many wealthy individuals and corporations use offshore tax havens to avoid paying their fair share of taxes. It is generally indicated that those who use offshore tax havens engage in unethical and possibly illegal practices to avoid contributing to their country's tax system. Those who use offshore tax havens are likely engaging in unethical and possibly illegal practices to avoid contributing to their country's tax system.",
+    "intent": "grupo3",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.6721757650375366
+    }
+  },
+  {
+    "text": "Generally, companies that prioritize environmental sustainability see positive brand reputation. Yet, in this specific case, despite implementing eco-friendly practices, XYZ Corp faces criticism for its environmental impact. Hence, we should acknowledge an exception to the rule and review the effectiveness of the company's sustainability initiatives.",
+    "intent": "grupo2",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.7767723798751831
+    }
+  },
+  {
+    "text": "Given that respecting privacy is the established rule for healthcare professionals, medical practitioners must respect patient privacy unless there are compelling reasons not to.",
+    "intent": "grupo2",
+    "intent_prediction": {
+      "name": "grupo1",
+      "confidence": 0.9235975742340088
+    }
+  },
+  {
+    "text": "In this case study, cities that invested in public transportation infrastructure saw a decrease in traffic congestion and air pollution. Therefore, generally, if urban areas prioritize public transportation projects, they can mitigate traffic congestion and reduce environmental pollution.",
+    "intent": "grupo2",
+    "intent_prediction": {
+      "name": "grupo3",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "In this specific scenario, the company increased its marketing budget and expanded its online presence, resulting in a significant boost in sales and customer engagement. Therefore, generally, if a business invests more in marketing efforts, it will likely experience an increase in sales and customer engagement.",
+    "intent": "grupo2",
+    "intent_prediction": {
+      "name": "grupo3",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "In this instance, companies that prioritized employee training programs observed higher levels of productivity and employee satisfaction. Therefore, generally, if businesses focus on implementing effective employee training initiatives, they can achieve increased productivity and higher levels of employee satisfaction.",
+    "intent": "grupo2",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9465817213058472
+    }
+  },
+  {
+    "text": "Climate change deniers frequently have vested interests in fossil fuel industries. Hence, their objections to environmental policies should be disregarded.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Politicians who have been convicted of corruption lack credibility. Therefore, their proposals for anti-corruption measures should be dismissed.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Critics argue that the author's personal life is chaotic and morally questionable. Thus, their literary analysis of the novel lacks legitimacy.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "The CEO's history of unethical business practices undermines the credibility of their proposal for employee welfare benefits.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Given the athlete's history of doping scandals, their opinions on fair competition in sports should be discounted.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "The religious leader has been embroiled in numerous scandals involving financial mismanagement. Consequently, their stance on charity and poverty alleviation lacks integrity.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Critics point to the filmmaker's controversial personal life, suggesting that their movie's portrayal of social issues is biased and unreliable.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "The politician's reputation for flip-flopping on key issues calls into question the sincerity of their policy recommendations.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Advocates highlight the scientist's lack of expertise in the field, discrediting their research findings on climate change.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 1.0
+    }
+  },
+  {
+    "text": "Renewable energy sources such as wind, hydro, and solar power are generally accepted as vital for a sustainable future. If renewable energy sources are generally accepted as vital for a sustainable future, that gives a reason in favour of transitioning to these sources instead of relying on non-renewable energy sources that harm the environment and contribute to climate change. Therefore, there is a reason in favour of transitioning to renewable energy sources for the sake of a sustainable future and reducing harmful environmental impact.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9998760223388672
+    }
+  },
+  {
+    "text": "Medical researchers have extensively studied the effects of smoking on human health. They assert that smoking is a leading cause of various respiratory diseases and cancers. Therefore, quitting smoking significantly reduces the risk of developing these health issues.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9999953508377075
+    }
+  },
+  {
+    "text": "Environmental scientists specialize in studying the impact of human activities on ecosystems. They assert that reducing carbon emissions is crucial for mitigating climate change. Therefore, transitioning to renewable energy sources is imperative for environmental sustainability.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9989171028137207
+    }
+  },
+  {
+    "text": "Nutritionists possess expertise in dietary patterns and their effects on health outcomes. They assert that consuming a balanced diet rich in fruits and vegetables promotes overall well-being. Thus, incorporating diverse nutrients into daily meals improves overall health.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9999809265136719
+    }
+  },
+  {
+    "text": "Architectural engineers are well-versed in building design principles and structural integrity. They assert that incorporating earthquake-resistant features enhances building resilience in seismic zones. Therefore, implementing seismic retrofitting measures ensures structural safety during earthquakes.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9995356798171997
+    }
+  },
+  {
+    "text": "Historians are experts in analyzing historical events and their consequences. They assert that studying past conflicts helps prevent similar occurrences in the future. Therefore, understanding the root causes of conflicts facilitates peace-building efforts and conflict resolution.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9999892711639404
+    }
+  },
+  {
+    "text": "Stephen Hawking, a renowned physicist specializing in black hole theory, affirms that the existence of singularities within black holes is a scientific fact. Therefore, it can be concluded that singularities do exist within black holes.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.992659866809845
+    }
+  },
+  {
+    "text": "According to Chef Gordon Ramsay, an authority in the culinary world, the secret to a perfect steak lies in the precise control of cooking temperature and resting time. Hence, achieving a perfect steak hinges on mastering these cooking techniques.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9985719919204712
+    }
+  },
+  {
+    "text": "Dr. Michael Brown, a leading psychologist, argues that early childhood experiences significantly influence personality development. Thus, it is evident that early experiences shape one's personality traits.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.999954342842102
+    }
+  },
+  {
+    "text": "Professor Alan Turing, a pioneer in computer science, contends that artificial intelligence will fundamentally transform various industries in the coming decades. Consequently, it is clear that artificial intelligence will revolutionize the future of work.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9999182224273682
+    }
+  },
+  {
+    "text": "Dr. Elizabeth Holmes, an expert in biotechnology, maintains that gene editing holds immense potential for curing genetic diseases. Hence, gene editing technologies offer promising prospects for treating genetic disorders.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.9980846643447876
+    }
+  },
+  {
+    "text": "Astrophysicist Neil deGrasse Tyson emphasizes that the theory of relativity has revolutionized our understanding of time and space. Thus, it is evident that the theory of relativity has reshaped our perception of the universe.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo0",
+      "confidence": 0.6074990034103394
+    }
+  },
+  {
+    "text": "Dr. Jack Kevorkian, an expert in the medical field and end-of-life care, asserts that terminally ill patients have the right to assisted suicide if they choose it as a means of ending their suffering. Therefore, terminally ill patients have the right to assisted suicide as a means to end their suffering.",
+    "intent": "grupo1",
+    "intent_prediction": {
+      "name": "grupo2",
+      "confidence": 0.9987611770629883
+    }
+  }
+]
